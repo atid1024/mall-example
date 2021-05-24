@@ -1,0 +1,9 @@
+/home/youngcheolkim/바탕화면/mall/product/src/main/java/mall/AbstractEvent.java
+/home/youngcheolkim/바탕화면/mall/product/src/main/java/mall/ProductRegistered.java
+/home/youngcheolkim/바탕화면/mall/product/src/main/java/mall/ProductApplication.java
+/home/youngcheolkim/바탕화면/mall/product/src/main/java/mall/PolicyHandler.java
+/home/youngcheolkim/바탕화면/mall/product/src/main/java/mall/ProductController.java
+/home/youngcheolkim/바탕화면/mall/product/src/main/java/mall/StockModified.java
+/home/youngcheolkim/바탕화면/mall/product/src/main/java/mall/ProductRepository.java
+/home/youngcheolkim/바탕화면/mall/product/src/main/java/mall/Product.java
+/home/youngcheolkim/바탕화면/mall/product/src/main/java/mall/config/kafka/KafkaProcessor.java
